@@ -10,7 +10,7 @@ Happy Trading!
   
 
 
-[VIEW PROJECT as R Markdown HERE](https://afrohner.github.io/MSQE_25/MSQE_CAPSTONE_ES2.html)
+[VIEW File  as HTML HERE](https://afrohner.github.io/Trading-Strategies/TT_strategy_1.html)
 
 
 
