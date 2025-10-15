@@ -10,7 +10,7 @@ Happy Trading!
   
 
 
-[VIEW File  as HTML HERE](https://afrohner.github.io/Trading-Strategies/TT_strategy_1.html)
+[VIEW File  as HTML HERE](https://afrohner.github.io/afrohner/Trading_Strategies/TT_strategy_1.html)
 
 
 
